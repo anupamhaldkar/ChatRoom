@@ -1,7 +1,5 @@
 # nd035-chatroom-project
-This is Chat Room project for Udacity Java Developer Nanodegree (nd035).
 
-This project requires Udacity nd035 students to implement a web-based Chat Room application.
 It is implemented using **WebSocket API**. It also uses **Thymeleaf template engine** for rendering UI. 
 
 ## Tools Required
@@ -22,7 +20,4 @@ It is implemented using **WebSocket API**. It also uses **Thymeleaf template eng
    browser tabs while the web app is running.
 6. It will show Online Users count on right-top corner and message sent from any user will be braodcasted 
    to all online users at the moment.
-
-## License
-This project uses MIT License. Please read [LICENSE](https://github.com/kalyani7t/nd035-chatroom-project/blob/master/LICENSE) under this project before using it.
 
